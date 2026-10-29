@@ -8,7 +8,7 @@
 
 Hi, I'm **Arty**.
 
-Prior to 2023, at forty years old, I had never turned on a laptop[cite: 1]. Today, less than three years later, I am building full-scale web applications and software across multiple programming languages, studying **Computer Information Systems** and **Music Technology** at the University of Maine at Augusta, and using technology as a vehicle for community empowerment and educational equity.
+Prior to 2023, at forty years old, I had never turned on a laptop. Today, less than three years later, I am building full-scale web applications and software across multiple programming languages, studying **Computer Information Systems** and **Music Technology** at the University of Maine at Augusta, and using technology as a vehicle for community empowerment and educational equity.
 
 My journey is proof that it is never too late to learn, adapt, and build a meaningful career. Today, my work lives at the intersection of **software engineering, community impact, and audio technology**, from leading web development for local organizations to teaching computer literacy, coding and prototyping digital signal processing tools.
 
@@ -64,5 +64,5 @@ My journey is proof that it is never too late to learn, adapt, and build a meani
 ---
 
 <p align="center">
-  <img src="README-images/logo.JPG" alt="Arty at work" width="300"/>
+  <img src="README-images/logo.JPG" alt="Arty at work" width="400"/>
 </p>
